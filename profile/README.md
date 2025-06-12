@@ -5,4 +5,4 @@ läsa och ladda ner anföranden av svenska riksdagsledamöter och andra som tala
 Gränssnittet är utvecklat inom projektet ”Svenska riksdagsdebatter” vid [Humlab](https://www.umu.se/humlab/) med finansiering av [Umeå universitet](umu.se) 
 och [Swerik](https://swerik-project.github.io). 
 
-<img width="1273" alt="wt" src="https://github.com/user-attachments/assets/acd441bf-ea35-4fed-b1ef-e566cccc9802" />
+<img width="1028" alt="word trends" src="https://github.com/user-attachments/assets/66d98cf2-207e-42d0-8061-81c10ec80016" />
